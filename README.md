@@ -35,7 +35,7 @@ Run all cells in order via **Kernel → Restart & Run All**
 | `analysis.ipynb` | Main analysis notebook |
 | `salaries_dach.csv` | Filtered DACH salary dataset |
 | `requirements.txt` | Python dependencies (generated via `pip freeze`) |
-| `Module Summary Statistical Analysis.pdf` | Written report with citations |
+| `Statistical_Analysis_Report_6thMay26.pdf` | Written report with citations |
 | `viz_descriptive_stats.png` | Salary distributions and experience-level boxplot |
 | `viz1_avg_salary_by_role.png` | Average salary by top 10 job titles |
 | `viz2_salary_by_remote.png` | Salary distribution by work mode |

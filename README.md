@@ -47,7 +47,7 @@ Run all cells in order via **Kernel → Restart & Run All**
 
 The notebook covers the following tasks:
 
-- **Descriptive statistics** — summary statistics, categorical value counts and distribution exploration across all key variables
+- **Descriptive statistics** - summary statistics, categorical value counts and distribution exploration across all key variables
 - **Currency conversion** — all salaries normalised to EUR using live ECB exchange rates via the [Frankfurter API](https://www.frankfurter.app/)
 - **Outlier handling** — two entries removed: one below €15,000 (likely part-time) and one implausible value of €753,480
 - **Visualisations** — five charts covering salary distributions, experience level, job titles, work mode, and variable correlations
